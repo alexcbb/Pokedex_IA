@@ -1,0 +1,517 @@
+{
+    "Abo": [
+        "Poison"
+    ],
+    "Abra": [
+        "Psy"
+    ],
+    "Aeromite": [
+        "Insecte",
+        "Poison"
+    ],
+    "Akwakwak": [
+        "Eau"
+    ],
+    "Alakazam": [
+        "Psy"
+    ],
+    "Amonistar": [
+        "Roche",
+        "Eau"
+    ],
+    "Amonita": [
+        "Roche",
+        "Eau"
+    ],
+    "Aquali": [
+        "Eau"
+    ],
+    "Arbok": [
+        "Poison"
+    ],
+    "Arcanin": [
+        "Feu"
+    ],
+    "Artikodin": [
+        "Glace",
+        "Vol"
+    ],
+    "Aspicot": [
+        "Insecte",
+        "Poison"
+    ],
+    "Boustiflor": [
+        "Plante",
+        "Poison"
+    ],
+    "Bulbizarre": [
+        "Plante",
+        "Poison"
+    ],
+    "Canarticho": [
+        "Normal",
+        "Vol"
+    ],
+    "Caninos": [
+        "Feu"
+    ],
+    "Carabaffe": [
+        "Eau"
+    ],
+    "Carapuce": [
+        "Eau"
+    ],
+    "Chenipan": [
+        "Insecte"
+    ],
+    "Chetiflor": [
+        "Plante",
+        "Poison"
+    ],
+    "Chrysacier": [
+        "Insecte"
+    ],
+    "Coconfort": [
+        "Insecte",
+        "Poison"
+    ],
+    "Colossinge": [
+        "Combat"
+    ],
+    "Crustabri": [
+        "Eau",
+        "Glace"
+    ],
+    "Dardargnan": [
+        "Insecte",
+        "Poison"
+    ],
+    "Dodrio": [
+        "Normal",
+        "Vol"
+    ],
+    "Doduo": [
+        "Normal",
+        "Vol"
+    ],
+    "Dracaufeu": [
+        "Feu",
+        "Vol"
+    ],
+    "Draco": [
+        "Dragon"
+    ],
+    "Dracolosse": [
+        "Dragon",
+        "Vol"
+    ],
+    "Ectoplasma": [
+        "Spectre",
+        "Poison"
+    ],
+    "Electhor": [
+        "Electrik",
+        "Vol"
+    ],
+    "Electrode": [
+        "Electrik"
+    ],
+    "Elektek": [
+        "Electrik"
+    ],
+    "Empiflor": [
+        "Plante",
+        "Poison"
+    ],
+    "Evoli": [
+        "Normal"
+    ],
+    "Excelangue": [
+        "Normal"
+    ],
+    "Fantominus": [
+        "Spectre",
+        "Poison"
+    ],
+    "Ferosinge": [
+        "Combat"
+    ],
+    "Feunard": [
+        "Feu"
+    ],
+    "Flagadoss": [
+        "Eau",
+        "Psy"
+    ],
+    "Florizarre": [
+        "Plante",
+        "Poison"
+    ],
+    "Galopa": [
+        "Feu"
+    ],
+    "Golem": [
+        "Roche",
+        "Sol"
+    ],
+    "Goupix": [
+        "Feu"
+    ],
+    "Gravalanch": [
+        "Roche",
+        "Sol"
+    ],
+    "Grodoudou": [
+        "Normal",
+        "Fee"
+    ],
+    "Grotadmorv": [
+        "Poison"
+    ],
+    "Herbizarre": [
+        "Plante",
+        "Poison"
+    ],
+    "Hypnomade": [
+        "Psy"
+    ],
+    "Hyporoi": [
+        "Eau",
+        "Dragon"
+    ],
+    "Hypotrempe": [
+        "Eau"
+    ],
+    "Insecateur": [
+        "Insecte",
+        "Vol"
+    ],
+    "Kabuto": [
+        "Roche",
+        "Eau"
+    ],
+    "Kabutops": [
+        "Roche",
+        "Eau"
+    ],
+    "Kadabra": [
+        "Psy"
+    ],
+    "Kangourex": [
+        "Normal"
+    ],
+    "Kicklee": [
+        "Combat"
+    ],
+    "Kokiyas": [
+        "Eau"
+    ],
+    "Krabboss": [
+        "Eau"
+    ],
+    "Krabby": [
+        "Eau"
+    ],
+    "Lamantine": [
+        "Eau",
+        "Glace"
+    ],
+    "Leveinard": [
+        "Normal"
+    ],
+    "Leviator": [
+        "Eau",
+        "Vol"
+    ],
+    "Lippoutou": [
+        "Glace",
+        "Psy"
+    ],
+    "Lokhlass": [
+        "Eau",
+        "Glace"
+    ],
+    "M.Mime": [
+        "Psy",
+        "Fee"
+    ],
+    "Machoc": [
+        "Combat"
+    ],
+    "Machop": [
+        "Combat"
+    ],
+    "Mackogneur": [
+        "Combat"
+    ],
+    "Magicarpe": [
+        "Eau"
+    ],
+    "Magmar": [
+        "Feu"
+    ],
+    "Magneti": [
+        "Electrik",
+        "Acier"
+    ],
+    "Magneton": [
+        "Electrik",
+        "Acier"
+    ],
+    "Melodelfe": [
+        "Fee"
+    ],
+    "Melofee": [
+        "Fee"
+    ],
+    "Metamorph": [
+        "Normal"
+    ],
+    "Mew": [
+        "Psy"
+    ],
+    "Mewtwo": [
+        "Psy"
+    ],
+    "Miaouss": [
+        "Normal"
+    ],
+    "Mimitoss": [
+        "Insecte",
+        "Poison"
+    ],
+    "Minidraco": [
+        "Dragon"
+    ],
+    "Mystherbe": [
+        "Plante",
+        "Poison"
+    ],
+    "Nidoking": [
+        "Poison",
+        "Sol"
+    ],
+    "Nidoqueen": [
+        "Poison",
+        "Sol"
+    ],
+    "Nidorina": [
+        "Poison"
+    ],
+    "Nidorino": [
+        "Poison"
+    ],
+    "Noadkoko": [
+        "Plante",
+        "Psy"
+    ],
+    "Noeunoeuf": [
+        "Plante",
+        "Psy"
+    ],
+    "Nosferalto": [
+        "Poison",
+        "Vol"
+    ],
+    "Nosferapti": [
+        "Poison",
+        "Vol"
+    ],
+    "Onix": [
+        "Roche",
+        "Sol"
+    ],
+    "Ortide": [
+        "Plante",
+        "Poison"
+    ],
+    "Ossatueur": [
+        "Sol"
+    ],
+    "Osselait": [
+        "Sol"
+    ],
+    "Otaria": [
+        "Eau"
+    ],
+    "Papilusion": [
+        "Insecte",
+        "Vol"
+    ],
+    "Paras": [
+        "Insecte",
+        "Plante"
+    ],
+    "Parasect": [
+        "Insecte",
+        "Plante"
+    ],
+    "Persian": [
+        "Normal"
+    ],
+    "Piafabec": [
+        "Normal",
+        "Vol"
+    ],
+    "Pikachu": [
+        "Electrik"
+    ],
+    "Poissirene": [
+        "Eau"
+    ],
+    "Poissoroy": [
+        "Eau"
+    ],
+    "Ponyta": [
+        "Feu"
+    ],
+    "Porygon": [
+        "Normal"
+    ],
+    "Psykokwak": [
+        "Eau"
+    ],
+    "Ptera": [
+        "Roche",
+        "Vol"
+    ],
+    "Ptitard": [
+        "Eau"
+    ],
+    "Pyroli": [
+        "Feu"
+    ],
+    "Racaillou": [
+        "Roche",
+        "Sol"
+    ],
+    "Rafflesia": [
+        "Plante",
+        "Poison"
+    ],
+    "Raichu": [
+        "Electrik"
+    ],
+    "Ramoloss": [
+        "Eau",
+        "Psy"
+    ],
+    "Rapasdepic": [
+        "Normal",
+        "Vol"
+    ],
+    "Rattata": [
+        "Normal"
+    ],
+    "Rattatac": [
+        "Normal"
+    ],
+    "Reptincel": [
+        "Feu"
+    ],
+    "Rhinocorne": [
+        "Sol",
+        "Roche"
+    ],
+    "Rhinoferos": [
+        "Sol",
+        "Roche"
+    ],
+    "Rondoudou": [
+        "Normal",
+        "Fee"
+    ],
+    "Ronflex": [
+        "Normal"
+    ],
+    "Roucarnage": [
+        "Normal",
+        "Vol"
+    ],
+    "Roucool": [
+        "Normal",
+        "Vol"
+    ],
+    "Roucoups": [
+        "Normal",
+        "Vol"
+    ],
+    "Sabelette": [
+        "Sol"
+    ],
+    "Sablaireau": [
+        "Sol"
+    ],
+    "Salameche": [
+        "Feu"
+    ],
+    "Saquedeneu": [
+        "Plante"
+    ],
+    "Scarabrute": [
+        "Insecte"
+    ],
+    "Smogo": [
+        "Poison"
+    ],
+    "Smogogo": [
+        "Poison"
+    ],
+    "Soporifik": [
+        "Psy"
+    ],
+    "Spectrum": [
+        "Spectre",
+        "Poison"
+    ],
+    "Stari": [
+        "Eau"
+    ],
+    "Staross": [
+        "Eau",
+        "Psy"
+    ],
+    "Sulfura": [
+        "Feu",
+        "Vol"
+    ],
+    "Tadmorv": [
+        "Poison"
+    ],
+    "Tartard": [
+        "Eau",
+        "Combat"
+    ],
+    "Taupiqueur": [
+        "Sol"
+    ],
+    "Tauros": [
+        "Normal"
+    ],
+    "Tentacool": [
+        "Eau",
+        "Poison"
+    ],
+    "Tentacruel": [
+        "Eau",
+        "Poison"
+    ],
+    "Tetarte": [
+        "Eau"
+    ],
+    "Tortank": [
+        "Eau"
+    ],
+    "Triopikeur": [
+        "Sol"
+    ],
+    "Tygnon": [
+        "Combat"
+    ],
+    "Voltali": [
+        "Electrik"
+    ],
+    "Voltorb": [
+        "Electrik"
+    ]
+}
